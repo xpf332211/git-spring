@@ -13,6 +13,8 @@ public class GitSpringApplication {
         System.out.println(22222);
         System.out.println(3333f);
         System.out.println("hotfix");
+        System.out.println("master");
+
     }
 
 
