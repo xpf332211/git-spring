@@ -16,9 +16,9 @@ public class GitSpringApplication {
         System.out.println("master");
 
         System.out.println("hotfix2");
-        System.out.println("push");
         System.out.println("push2");
          System.out.println("pull");
+        System.out.println("add");
 
     }
 
