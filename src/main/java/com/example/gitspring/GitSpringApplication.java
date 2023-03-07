@@ -7,7 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitSpringApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(GitSpringApplication.class, args);
+        System.out.println(111);
     }
+
 
 }
